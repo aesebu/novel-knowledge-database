@@ -1,0 +1,14 @@
+Backup ID: NKD-BK-20261122-001
+Backup Date: 2026-11-22
+Backup Type: Full
+Source Database: NOVEL_KNOWLEDGE_DATABASE (Google Sheets, 7 tabs)
+Version: 1
+
+file,sheet,bytes,sha256
+NKD_01_Knowledge_Records.csv,01 Knowledge Records,81489,a0f1678201eea003b313b42861473e7c83c02eee7315934998e15e199a1a3e39
+NKD_03_Story_Elements.csv,03 Story Elements,64330,4dc99fbffef779b89f37eaa998f06c7f6f82e1bf8d6c12ec273e121f7e5b4458
+NKD_04_Genres_Markets.csv,04 Genres & Markets,24616,ad7a22f02584f404e89edd869aed7ab6d1e28f6b6873141c2a6aae88ec99575a
+NKD_05_Relationships.csv,05 Relationships,15848,01181108b19bb00bc819802ab71d205d02c332b8f1327d903e72505d44978dcb
+
+total_files,4
+total_bytes,186283

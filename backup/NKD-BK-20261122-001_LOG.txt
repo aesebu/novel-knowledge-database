@@ -1,0 +1,14 @@
+BACKUP LOG
+==========
+Backup ID      : NKD-BK-20261122-001
+Backup Date    : 2026-11-22
+Backup Type    : Full
+Source Database: NOVEL_KNOWLEDGE_DATABASE (Google Sheets)
+Destination    : GitHub / aesebu/novel-knowledge-database (backup/)
+File List      : 5 CSV + 2 log files
+Version        : 1
+Integrity Status: VERIFIED — sha256 ตรงกับ source
+Backup Status  : COMPLETE
+Error Log      : (ว่าง)
+
+Note: Google Drive connector ไม่รองรับการอัปโหลดไฟล์ จึงเปลี่ยนปลายทางสำรองมาเป็น GitHub
